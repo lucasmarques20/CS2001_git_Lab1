@@ -484,3 +484,8 @@ Student ID | Movie | Year of Release
 1910055 | Interstellar | 2014
 1910055 | War for the Planet of the Apes | 2017
 1910055 | Avatar | 2009
+1834210 | Avengers: End Game | 2018
+1834210 | Avengers: Infinity War | 2017
+1834210 | Avengers: Age of Ultron | 2015
+1834210 | Avengers: Civil War | 2016
+1834210 | The Avengers | 2012
